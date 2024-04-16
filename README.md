@@ -3,6 +3,8 @@ Basic Parameters like Temperature, max token, device type, etc.
 
 Reference:
 
+LLM : https://www.promptingguide.ai/introduction/settings
+
 HF: https://huggingface.co/models
 
 Ctransformers: https://pypi.org/project/ctransformers/
